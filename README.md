@@ -1,6 +1,6 @@
 # :handshake: Group Assignment - Ransom Attack Puzzle
 
-In your group, create a webpage that will mimic a ransomware attack. The user will be asked to enter 4 different passwords to "unlock" the computer.
+In your group, create a webpage that will mimic a ransomware attack. The user will be asked to enter 4 different passwords to "unlock" the computer. Users will solve puzzles outside the webpage to find the passwords and use the webpage to verify that they have solved the puzzles correctly.
 
 ## Requirements
 
